@@ -1,0 +1,16 @@
+This doesn't work yet.  It can read messages and all that, but 
+whenever I try to publish, it just pisses on me. 
+
+I'll get to it, but it was a pastime one day during a class, 
+so don't expect quickness.
+
+To run: 
+ - First run 'login.py' -- this will prompt for your credentials
+   and store them in an encoded file (settings.dat).  Note, this
+   is not especially secure or anything, it's just encoded to pre-
+   vent casual viewing. 
+
+ - Then run 'aim.py' -- This will read in your credentials and 
+   log you in to AIM, hopefully. 
+
+
